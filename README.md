@@ -81,7 +81,7 @@ pip install requests pycryptodome --break-system-packages
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/opendeez.git
+git clone https://github.com/nt-b3st/opendeez.git
 cd opendeez
 python3 main.py
 ```
